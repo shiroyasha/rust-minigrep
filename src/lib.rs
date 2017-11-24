@@ -27,7 +27,5 @@ pub fn run(config: Config) -> Result<(), Box<Error>> {
     file.read_to_string(&mut content)
         .expect("Something went wrong while reading the file");
 
-    println!("Content: \n{}", content);
-
     Ok(())
 }

@@ -1,5 +1,5 @@
 [package]
-name = "rust-minigrep"
+name = "minigrep"
 version = "0.1.0"
 authors = ["Igor Šarčević <igor@renderedtext.com>"]
 
